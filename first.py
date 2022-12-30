@@ -1,3 +1,4 @@
+# This script ram on a python machine
 import os
 # Determine which product is cheaper from a list of options
 
